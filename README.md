@@ -5,7 +5,8 @@ In this project, we will write a simple Python Audio book program. This video ex
 
 
 ## How to Build a Third Party Library and Publish onto PyPi
-[title](https://youtu.be/ZzduSk3pCDY)
+[kbtcal Package](https://youtu.be/ZzduSk3pCDY)
+[Python QRcode Video](https://youtu.be/yHSAnFXJ1cs)
 https://youtu.be/ZzduSk3pCDY
 
 
